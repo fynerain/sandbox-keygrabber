@@ -1,0 +1,17 @@
+{
+  "name": "sandbox-keygrabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "start": "node init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "init.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "puppeteer": "^15.5.0"
+  }
+}
